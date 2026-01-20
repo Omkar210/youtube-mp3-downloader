@@ -11,9 +11,7 @@ A Python script to download YouTube videos and playlists as high-quality MP3 fil
 
 ## Requirements
 
-- Python 3.x
 - yt-dlp
-- FFmpeg
 
 ## Installation
 
